@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="225" viewBox="0 0 180 225">
+  <defs>
+    <linearGradient id="pi-concept-ans-a" x1="1.301%" x2="98.76%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#43CEA2"/>
+      <stop offset="100%" stop-color="#185A9D"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="url(#pi-concept-ans-a)" points="0 214 170 200.167 170 13.833 0 0"/>
+    <polygon fill="#FFF" stroke="#979797" points="9 224 179 210.167 179 23.833 9 10"/>
+    <polygon fill="url(#pi-concept-ans-a)" points="19 55.922 172 63 172 38.464 19 28"/>
+    <polygon fill="#FFF" stroke="#979797" points="37 100.07 171 104 171 86.224 37 79"/>
+    <polygon fill="url(#pi-concept-ans-a)" points="37 137 171 136.514 171 118.694 37 114"/>
+    <polygon fill="#FFF" stroke="#979797" points="37 175 171 171.235 171 153.369 37 151"/>
+    <polygon fill="#FFF" stroke="#979797" points="19 170 32 170 32 158 19 158"/>
+    <polygon fill="url(#pi-concept-ans-a)" points="19 132 32 132 32 120 19 120"/>
+    <polygon fill="#FFF" stroke="#979797" points="19 95 32 95 32 83 19 83"/>
+  </g>
+</svg>

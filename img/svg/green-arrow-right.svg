@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="11px" viewBox="0 0 8 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="58.5698485%" x2="100%" y2="58.5698485%" id="linearGradient-1">
+            <stop stop-color="#4BAD00" offset="0%"></stop>
+            <stop stop-color="#71DF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Online-Survey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Mobile-Online-Survey" transform="translate(-201.000000, -7678.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-55" transform="translate(30.000000, 7621.000000)">
+                <g id="Group-42" transform="translate(94.000000, 50.000000)">
+                    <g id="Group-Copy" transform="translate(73.000000, 6.000000)">
+                        <g id="arrow-right-white">
+                            <g id="Group-13" transform="translate(6.420971, 6.486997) rotate(-45.000000) translate(-6.420971, -6.486997) translate(2.420971, 2.486997)">
+                                <path d="M5.43774703,5.37017988 L0.221825407,5.37017988 L0.221825407,7.21923649 L5.43774703,7.21923649 L5.43774703,7.22182541 L7.33274293,7.22182541 L7.33274293,7.21923649 L7.39573845,7.21923649 L7.39573845,5.37017988 L7.33274293,5.37017988 L7.33274293,0.221825407 L5.43774703,0.221825407 L5.43774703,5.37017988 Z" id="Combined-Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

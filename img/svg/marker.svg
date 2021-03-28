@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="66px" viewBox="0 0 46 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>marker</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#82D600" offset="0%"></stop>
+            <stop stop-color="#4BAD00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Our-Panel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Our-panel" transform="translate(-36.000000, -683.000000)">
+            <g id="marker" transform="translate(36.000000, 683.000000)">
+                <path d="M23,66 C38.3333333,49.5598626 46,36.4370556 46,26.6315789 C46,11.923364 35.7025492,0 23,0 C10.2974508,0 0,11.923364 0,26.6315789 C0,36.4370556 7.66666667,49.5598626 23,66 Z" id="Oval-5" fill="url(#linearGradient-1)"></path>
+                <circle id="Oval-2" fill="#FFFFFF" cx="23" cy="23" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

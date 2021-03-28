@@ -1,0 +1,22 @@
+
+<svg width="27px" height="25px" viewBox="0 0 27 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.21420599%" y1="58.5698485%" x2="100%" y2="58.5698485%" id="linearGradient-1">
+            <stop stop-color="#4BAD00" offset="0%"></stop>
+            <stop stop-color="#71DF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing_Dropdown_product" transform="translate(-573.000000, -114.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="Group-65" transform="translate(469.000000, 74.000000)">
+                <g id="Group-62" transform="translate(30.000000, 40.000000)">
+                    <g id="noun_1231565_cc" transform="translate(74.000000, 0.000000)">
+                        <path d="M19.2651757,0 L19.2651757,1.03926097 L19.2651757,23.960739 L19.2651757,25 L20.3003195,25 L25.9648562,25 L27,25 L27,23.960739 L27,1.03926097 L27,0 L25.9648562,0 L20.3003195,0 L19.2651757,0 Z M0,11.1720554 L0,12.2113164 L0,23.960739 L0,25 L1.03514377,25 L6.69968051,25 L7.73482428,25 L7.73482428,23.960739 L7.73482428,12.2113164 L7.73482428,11.1720554 L6.69968051,11.1720554 L1.03514377,11.1720554 L0,11.1720554 Z M9.63258786,5.91801386 L9.63258786,6.95727483 L9.63258786,23.960739 L9.63258786,25 L10.6677316,25 L16.3322684,25 L17.3674121,25 L17.3674121,23.960739 L17.3674121,6.95727483 L17.3674121,5.91801386 L16.3322684,5.91801386 L10.6677316,5.91801386 L9.63258786,5.91801386 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

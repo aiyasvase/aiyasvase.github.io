@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark--outline copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.36567283%" y1="50%" x2="99.4040976%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#24C6DC" offset="0%"></stop>
+            <stop stop-color="#514A9D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Hi-fi-(26july2018)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="@1440px---Normal-/-12-Columns-/-20px-Gutters-/-5%-Margins-Copy-2" transform="translate(-245.000000, -1212.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-8" transform="translate(245.000000, 750.000000)">
+                <g id="Group-21" transform="translate(0.000000, 146.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 316.000000)">
+                        <g id="checkmark--outline-copy-4">
+                            <path d="M12,2 C17.5,2 22,6.5 22,12 C22,17.5 17.5,22 12,22 C6.5,22 2,17.5 2,12 C2,6.5 6.5,2 12,2 L12,2 Z M12,0 C5.4,0 0,5.4 0,12 C0,18.6 5.4,24 12,24 C18.6,24 24,18.6 24,12 C24,5.4 18.6,0 12,0 L12,0 L12,0 Z M10.3,13.6 L7.7,11 L6.3,12.4 L10.3,16.4 L17.8,9 L16.4,7.6 L10.3,13.6 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

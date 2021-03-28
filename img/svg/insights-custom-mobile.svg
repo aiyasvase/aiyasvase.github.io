@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="27px" viewBox="0 0 28 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Polygon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="58.5698485%" x2="100%" y2="58.5698485%" id="linearGradient-1">
+            <stop stop-color="#4BAD00" offset="0%"></stop>
+            <stop stop-color="#71DF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0-Mobile_ConsumerInsights_Dropdown_Solution" transform="translate(-219.000000, -456.000000)" stroke="url(#linearGradient-1)">
+            <g id="Group-59" transform="translate(31.000000, 252.000000)">
+                <polygon id="Polygon" points="202.143278 205 215.286556 214.54915 210.26627 230 194.020285 230 189 214.54915"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

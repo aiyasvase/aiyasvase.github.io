@@ -1,0 +1,29 @@
+
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.30141901%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EC008C" offset="0%"></stop>
+            <stop stop-color="#FC6767" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.0-Market-Insights_CopyNotReady" transform="translate(-595.000000, -1064.000000)" fill-rule="nonzero">
+            <g id="noun_1320324_cc" transform="translate(595.000000, 1064.000000)">
+                <path d="M30,50 C51.416,50 59.839,30.584 59.922,30.388 C60.026,30.14 60.026,29.861 59.922,29.613 C59.839,29.416 51.416,10 30,10 C8.584,10 0.161,29.416 0.078,29.612 C-0.026,29.86 -0.026,30.139 0.078,30.387 C0.161,30.584 8.584,50 30,50 Z M12,30 C12,20.075 20.075,12 30,12 C39.925,12 48,20.075 48,30 C48,39.925 39.925,48 30,48 C20.075,48 12,39.925 12,30 Z M57.898,30 C56.978,31.909 52.493,40.352 43.223,44.965 C47.368,41.298 50,35.957 50,30 C50,24.043 47.368,18.702 43.223,15.035 C52.494,19.648 56.979,28.091 57.898,30 Z M16.777,15.035 C12.632,18.702 10,24.043 10,30 C10,35.957 12.632,41.298 16.777,44.965 C7.506,40.352 3.021,31.909 2.102,30 C3.021,28.091 7.506,19.648 16.777,15.035 Z" id="Shape" fill="#000000"></path>
+                <path d="M43.867,37.498 C44.046,37.187 44.044,36.806 43.864,36.496 L37,24.729 L37,16 C37,15.621 36.786,15.275 36.447,15.105 C36.108,14.937 35.703,14.972 35.4,15.2 L31.4,18.2 C31.123,18.408 30.972,18.745 31.004,19.09 C31.036,19.435 31.243,19.739 31.553,19.895 L35,21.618 L35,24.697 L27.9,35.346 L22.758,29.349 C22.379,28.906 21.619,28.906 21.24,29.349 L15.24,36.349 C14.985,36.645 14.927,37.063 15.091,37.417 C15.255,37.771 15.609,38 16,38 L27.998,38 C27.999,38 27.999,38 28,38 C28,38 28.001,38 28.002,38 L43,38 C43.358,38 43.688,37.809 43.867,37.498 Z M18.174,36 L22,31.536 L25.826,36 L18.174,36 Z M33.895,18.829 L35,18 L35,19.382 L33.895,18.829 Z M29.868,36 L35.943,26.888 L41.259,36 L29.868,36 Z" id="Shape" fill="#000000"></path>
+                <rect id="Rectangle-path" fill="#000000" x="26" y="16" width="2" height="2"></rect>
+                <rect id="Rectangle-path" fill="#000000" x="28" y="18" width="2" height="2"></rect>
+                <rect id="Rectangle-path" fill="#000000" x="26" y="20" width="2" height="2"></rect>
+                <rect id="Rectangle-path" fill="#000000" x="24" y="18" width="2" height="2"></rect>
+                <rect id="Rectangle-path" fill="#000000" x="41" y="19" width="2" height="2"></rect>
+                <rect id="Rectangle-path" fill="#000000" x="40" y="24" width="2" height="2"></rect>
+                <path d="M2,2 L12,2 L12,0 L1,0 C0.447,0 0,0.447 0,1 L0,12 L2,12 L2,2 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M60,12 L60,1 C60,0.447 59.553,0 59,0 L48,0 L48,2 L58,2 L58,12 L60,12 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M0,48 L0,59 C0,59.553 0.447,60 1,60 L12,60 L12,58 L2,58 L2,48 L0,48 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M58,58 L48,58 L48,60 L59,60 C59.553,60 60,59.553 60,59 L60,48 L58,48 L58,58 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

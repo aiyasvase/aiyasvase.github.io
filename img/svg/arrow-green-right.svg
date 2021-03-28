@@ -1,0 +1,23 @@
+<svg width="13px" height="20px" viewBox="0 0 13 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="58.5698485%" x2="100%" y2="58.5698485%" id="linearGradient-1">
+            <stop stop-color="#4BAD00" offset="0%"></stop>
+            <stop stop-color="#71DF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BLOG_DESKTOP" transform="translate(-365.000000, -599.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-3" transform="translate(105.000000, 584.000000)">
+                <g id="Group" transform="translate(253.000000, 14.000000)">
+                    <g id="arrow-right-white" transform="translate(0.000000, 0.333333)">
+                        <g id="Group-13" transform="translate(9.915385, 10.896630) rotate(-45.000000) translate(-9.915385, -10.896630) translate(2.915385, 3.896630)">
+                            <path d="M9.84926412,9.93499165 L-9.73443548e-13,9.93499165 L-9.73443548e-13,13.5013989 L9.84926412,13.5013989 L9.84926412,13.5063923 L13.4275992,13.5063923 L13.4275992,13.5013989 L13.5465541,13.5013989 L13.5465541,9.93499165 L13.4275992,9.93499165 L13.4275992,0.00499343325 L9.84926412,0.00499343325 L9.84926412,9.93499165 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

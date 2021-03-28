@@ -1,0 +1,41 @@
+
+<svg width="73px" height="73px" viewBox="0 0 73 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="10" width="50" height="50"></rect>
+        <filter x="-21.8%" y="-17.8%" width="143.5%" height="143.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.875" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.608418367   0 0 0 0 0.608418367   0 0 0 0 0.608418367  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="2.36567283%" y1="50%" x2="99.4040976%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#24C6DC" offset="0%"></stop>
+            <stop stop-color="#514A9D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="35" y="0" width="25" height="25" rx="12.5"></rect>
+        <filter x="-40.0%" y="-32.0%" width="180.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.608418367   0 0 0 0 0.608418367   0 0 0 0 0.608418367  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="consumer-insights" transform="translate(-238.000000, -1060.000000)">
+            <g id="original" transform="translate(245.000000, 1064.000000)">
+                <g id="Group-8">
+                    <g id="Rectangle-19">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use stroke="#333333" stroke-width="1.75" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Rectangle-20">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

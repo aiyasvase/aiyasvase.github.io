@@ -1,0 +1,20 @@
+
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.21420599%" y1="58.5698485%" x2="100%" y2="58.5698485%" id="linearGradient-1">
+            <stop stop-color="#4BAD00" offset="0%"></stop>
+            <stop stop-color="#71DF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_Sidemenu_Onclick" transform="translate(-269.000000, -25.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="Group-53" transform="translate(269.000000, 25.000000)">
+                <g id="burger">
+                    <polygon id="Close" points="15.7335424 2.13521039 14.2045615 0.529780458 8.14285714 6.89457006 2.08115276 0.529780458 0.552171865 2.13521039 6.61387625 8.5 0.552171865 14.8647896 2.08115276 16.4702195 8.14285714 10.1054299 14.2045615 16.4702195 15.7335424 14.8647896 9.67183803 8.5"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="293px" viewBox="0 0 90 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.9037787%" y1="49.9222016%" x2="100%" y2="49.922201%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Online-Survey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Mobile-Online-Survey" transform="translate(0.000000, -559.000000)" fill="url(#linearGradient-1)">
+            <rect id="Rectangle-24" x="0" y="559" width="90" height="293"></rect>
+        </g>
+    </g>
+</svg>

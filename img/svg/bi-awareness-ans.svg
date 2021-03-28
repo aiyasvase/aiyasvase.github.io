@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="167" height="165" viewBox="0 0 167 165">
+  <defs>
+    <polygon id="bi-awareness-ans-a" points=".265 126.351 101.475 126.351 101.475 .848 .265 .848"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#6065BF" points="0 38.978 32.768 20 134 78.023 101.235 97"/>
+    <polygon fill="#353A9A" points="101.286 164.12 166.684 126.011 166.876 58.761 101.476 96.87"/>
+    <g transform="translate(0 37.769)">
+      <mask id="bi-awareness-ans-b" fill="#fff">
+        <use xlink:href="#bi-awareness-ans-a"/>
+      </mask>
+      <polygon fill="#232770" points=".455 .848 .265 68.098 101.285 126.352 101.475 59.1" mask="url(#bi-awareness-ans-b)"/>
+    </g>
+    <polygon fill="#6065BF" points="65.853 .508 166.875 58.76 134.17 77.817 33.153 19.562"/>
+    <polygon fill="#FFF" points="28.551 22.243 37.473 17.045 138.465 75.315 129.652 80.451"/>
+    <polygon fill="#D4D7D9" points="138.465 75.316 138.465 95.44 137.543 94.733 137.04 96.939 135.325 95.71 134.897 97.571 133.485 96.434 133.183 98.228 132.175 97.192 131.923 98.911 130.94 96.485 129.676 98.911 129.652 80.451"/>
+  </g>
+</svg>

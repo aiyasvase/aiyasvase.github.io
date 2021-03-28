@@ -1,0 +1,24 @@
+
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="11.2567189%" y1="8.91869577%" x2="85.7625028%" y2="97.7128021%" id="linearGradient-1">
+            <stop stop-color="#777777" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LANDING_MOBILE" transform="translate(-58.000000, -6646.000000)" fill-rule="nonzero" fill="url(#linearGradient-1)">
+            <g id="Group-48" transform="translate(33.000000, 6584.000000)">
+                <g id="Group-43" transform="translate(0.000000, 46.000000)">
+                    <g id="empty-rectangle" transform="translate(25.000000, 16.000000)">
+                        <rect id="Rectangle-path" x="1.36362745" y="0.0196790372" width="12.2727206" height="1"></rect>
+                        <rect id="Rectangle-path" x="0.681813725" y="1.37975719" width="13.636348" height="1"></rect>
+                        <path d="M0,2.82757208 L0,13.5328217 C0,13.5811025 0.0429411765,13.6205339 0.0954656863,13.6205339 L14.9038971,13.6205339 C14.9570588,13.6205339 14.9993627,13.5811025 14.9993627,13.5328217 L14.9993627,2.82757208 C15.0000245,2.77926676 14.9570588,2.73983535 14.9038971,2.73983535 L0.0954656863,2.73983535 C0.0429411765,2.73983535 0,2.77926676 0,2.82757208 Z M0.681813725,3.41989887 L14.3181618,3.41989887 L14.3181618,12.9404949 L0.681813725,12.9404949 L0.681813725,3.41989887 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
